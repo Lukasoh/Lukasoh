@@ -1,5 +1,5 @@
 ### Hi! I'm Lukas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukasoh&show_icons=true&theme=radical&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasOh&show_icons=true&theme=radical&include_all_commits=true)
 <!--
 **Lukasoh/Lukasoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
