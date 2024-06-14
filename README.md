@@ -1,6 +1,6 @@
 ### Hi! I'm Lukas
 ---
-about me
+**about me**
 <!--
 **Lukasoh/Lukasoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
