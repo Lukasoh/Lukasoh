@@ -6,11 +6,13 @@
 
 ### Technical Skills
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-ECD53F?style=for-the-badge&logo=Unity&logoColor=black">
-<img src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-FE5F50?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black">
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-ECD53F?style=for-the-badge&logo=Unity&logoColor=black">
+  <img src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-FE5F50?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black">
+</div>
 <!--
 **Lukasoh/Lukasoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
