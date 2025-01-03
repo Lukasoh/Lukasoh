@@ -14,7 +14,6 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
       <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-      <img src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
     </div>
   </div>
 </div>
@@ -29,6 +28,14 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     </div>
   </div>
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <div>
+    <h3>📱 Mobile</h3>
+    <div style="display: flex; gap: 10px;">
+      <img src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
+    </div>
+  </div>
+</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <div>
